@@ -20,15 +20,6 @@
 
   <br />
 
-  <!-- Трофеи -->
-  <a href="https://github.com/sosiskanyashka/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=sosiskanyashka&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true&no-bg=true"
-      alt="Trophy"
-    />
-  </a>
-
-  <br />
 
   <!-- Технологии и навыки -->
   <h3>🛠 Теch</h3>
