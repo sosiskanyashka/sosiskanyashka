@@ -1,30 +1,22 @@
 <div align="center">
   
   <!-- Печатающийся заголовок -->
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70EDA&center=true&width=435&lines=Sonyasha+2007"
-      alt="Typing SVG"
-    />
-  </a>
+  ```
+     _____            _      __                                __    __        
+  / ___/____  _____(_)____/ /______ _____  __  ______ ______/ /_  / /______ _
+  \__ \/ __ \/ ___/ / ___/ //_/ __ `/ __ \/ / / / __ `/ ___/ __ \/ //_/ __ `/
+ ___/ / /_/ (__  ) (__  ) ,< / /_/ / / / / /_/ / /_/ (__  ) / / / ,< / /_/ / 
+/____/\____/____/_/____/_/|_|\__,_/_/ /_/\__, /\__,_/____/_/ /_/_/|_|\__,_/  
+                                        /____/                               
 
-  <br />
-
-  <!-- График активности -->
-  <a href="https://github.com/sosiskanyashka/github-readme-activity-graph">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=sosiskanyashka&theme=github-compact&hide_border=true"
-      alt="Readme Graph"
-    />
-  </a>
-
+```
   <br />
 
 
   <!-- Технологии и навыки -->
   <h3>🛠 Теch</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=python,javascript,php,nodejs,express,mongodb,redis,postgresql,docker,git,linux,vscode,figma,html,css,c,cpp,java,sql" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,php,mongodb,redis,postgresql,docker,git,linux,vscode,figma,html,css,c,java,sql" alt="Skills" />
   </p>
 
   <br />
